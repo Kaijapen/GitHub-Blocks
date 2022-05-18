@@ -1,0 +1,44 @@
+.container{
+    height: 100vh;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+
+h1{
+    color: rgb(75, 75, 75);
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.firstrow{
+    background-color: rebeccapurple;
+    height: 20vh;
+    margin-bottom: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.middlerow {
+    background-color: rgb(157, 87, 226);
+    height: 20vh;
+    display: flex;
+    margin-bottom: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.lastrow {
+    background-color: rgb(198, 152, 243);
+    height: 20vh;
+    display: flex;
+    margin-bottom: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
